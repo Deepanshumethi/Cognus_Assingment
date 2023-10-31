@@ -1,1 +1,0 @@
-# Cognus_Assingment
