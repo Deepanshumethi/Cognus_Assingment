@@ -2,6 +2,6 @@
 
 
 
-To vidit the site click on =>
+To visit the site click on =>
 
 https://deepanshumethi.github.io/Cognus_Assingment/
